@@ -1,0 +1,51 @@
+syntax="proto3";
+package com.protocol;
+
+option java_package = "com.network.protobuffprotocol";
+option java_outer_classname = "CompetitionProtobuffs";
+
+message User{
+    int64 id=1;
+    string username=2;
+    string password=3;
+}
+
+message Round{
+    int64  id=1;
+    string name=2;
+}
+
+message Participant{
+    int64  id=1;
+    string name=2;
+    int32 fullPoints=3;
+}
+
+message Score{
+    int64 id=1;
+    Participant participant=2;
+    Round round=3;
+    int32 points=4;
+}
+
+message Request{
+    enum Type {UNKNOWN = 0; LOGIN = 1; LOGOUT = 2; GET_ROUNDS = 3; GET_SCORES = 4; SEND_SCORE = 5; GET_PARTICIPANTS = 6;}
+
+    Type type = 1;
+
+        User user = 2;
+        string roundName = 3;
+        Score score=4;
+}
+
+message Response{
+    enum Type {UNKNOWN = 0; OK = 1; ERROR = 2; NEW_ROUND = 3; NEW_SCORE = 4;}
+
+    Type type = 1;
+
+    string error=2;
+    repeated Round rounds=3;
+    repeated Score scores=4;
+    repeated Participant participants=5;
+    Score score=6;
+}

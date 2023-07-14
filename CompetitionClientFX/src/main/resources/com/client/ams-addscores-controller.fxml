@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.client.gui.ams.AddScoresWindowAMS">
+   <children>
+      <Label layoutX="14.0" layoutY="14.0" prefHeight="18.0" prefWidth="137.0" text="Round name:" />
+      <TextField fx:id="roundNameField" layoutX="92.0" layoutY="10.0" prefHeight="26.0" prefWidth="337.0" />
+      <Button onAction="#saveDataPressed" layoutX="31.0" layoutY="360.0" mnemonicParsing="false" prefHeight="26.0" prefWidth="226.0" text="Save data" />
+      <Button fx:id="returnButton" onAction="#returnToMainPressed" layoutX="342.0" layoutY="360.0" mnemonicParsing="false" prefHeight="26.0" prefWidth="249.0" text="Cancel" />
+      <TableView fx:id="tableViewParticipants" layoutX="52.0" layoutY="74.0" prefHeight="200.0" prefWidth="522.0">
+        <columns>
+          <TableColumn fx:id="tableColumnNameParticipants" prefWidth="522.3999633789062" text="Participant Name" />
+        </columns>
+      </TableView>
+      <Label layoutX="23.0" layoutY="302.0" prefHeight="18.0" prefWidth="71.0" text="Points:" />
+      <TextField fx:id="roundPointsField" layoutX="76.0" layoutY="298.0" prefHeight="26.0" prefWidth="337.0" />
+   </children>
+</AnchorPane>

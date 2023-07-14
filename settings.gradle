@@ -1,0 +1,9 @@
+rootProject.name = "Competition"
+include 'CompetitionClientFX'
+include 'CompetitionServer'
+include 'CompetitionNetworking'
+include 'CompetitionServices'
+include 'CompetitionPersistence'
+include 'CompetitionModel'
+include 'RestServices'
+

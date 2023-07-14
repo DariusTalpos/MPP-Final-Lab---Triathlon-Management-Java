@@ -1,0 +1,697 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1101a018-3235-4db7-858d-c29180e2c349" name="Changes" comment="git p">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/60ffa07e-26d8-47de-9f1f-4634e5910eb7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/60ffa07e-26d8-47de-9f1f-4634e5910eb7.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/60ffa07e-26d8-47de-9f1f-4634e5910eb7/storage_v2/_src_/database/competition.v5G1vg/schema/public.abK9xQ.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/60ffa07e-26d8-47de-9f1f-4634e5910eb7/storage_v2/_src_/database/competition.v5G1vg/schema/public.abK9xQ.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CompetitionClientFX/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/CompetitionClientFX/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/MPP_BD.log" beforeDir="false" afterPath="$PROJECT_DIR$/target/MPP_BD.log" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/CompetitionClient">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/L3-4">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/L3-4">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/CompetitionServer">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/CompetitionPersistence">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/CompetitionClient">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/CompetitionClientFX">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/CompetitionNetworking">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/RestServices">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Competition" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Competition" type="f1a62948:ProjectNode" />
+                <item name="CompetitionClientFX" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Competition" type="f1a62948:ProjectNode" />
+                <item name="CompetitionClientFX" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Competition" type="f1a62948:ProjectNode" />
+                <item name="CompetitionClientFX" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="application" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Competition" type="f1a62948:ProjectNode" />
+                <item name="CompetitionClientFX" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Competition" type="f1a62948:ProjectNode" />
+                <item name="CompetitionNetworking" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Competition" type="f1a62948:ProjectNode" />
+                <item name="CompetitionNetworking" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Competition" type="f1a62948:ProjectNode" />
+                <item name="CompetitionNetworking" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Competition" type="f1a62948:ProjectNode" />
+                <item name="CompetitionPersistence" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Competition" type="f1a62948:ProjectNode" />
+                <item name="CompetitionPersistence" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Competition" type="f1a62948:ProjectNode" />
+                <item name="CompetitionPersistence" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Competition" type="f1a62948:ProjectNode" />
+                <item name="CompetitionServer" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Competition" type="f1a62948:ProjectNode" />
+                <item name="CompetitionServer" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Competition" type="f1a62948:ProjectNode" />
+                <item name="CompetitionServer" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Competition" type="f1a62948:ProjectNode" />
+                <item name="RestServices" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Competition" type="f1a62948:ProjectNode" />
+                <item name="RestServices" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Competition" type="f1a62948:ProjectNode" />
+                <item name="RestServices" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="application" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Competition" type="f1a62948:ProjectNode" />
+                <item name="RestServices" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Competition" type="f1a62948:ProjectNode" />
+                <item name="RestServices" type="2d1252cf:ModuleNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Competition" type="f1a62948:ProjectNode" />
+                <item name="RestServices" type="2d1252cf:ModuleNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+                <item name="compileClasspath" type="62daadca:ExternalSystemViewDefaultContributor$DependencyScopeExternalSystemNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Competition" type="f1a62948:ProjectNode" />
+                <item name="RestServices" type="2d1252cf:ModuleNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+                <item name="runtimeClasspath" type="62daadca:ExternalSystemViewDefaultContributor$DependencyScopeExternalSystemNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Competition" type="f1a62948:ProjectNode" />
+                <item name="RestServices" type="2d1252cf:ModuleNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+                <item name="testCompileClasspath" type="62daadca:ExternalSystemViewDefaultContributor$DependencyScopeExternalSystemNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Competition" type="f1a62948:ProjectNode" />
+                <item name="RestServices" type="2d1252cf:ModuleNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+                <item name="testRuntimeClasspath" type="62daadca:ExternalSystemViewDefaultContributor$DependencyScopeExternalSystemNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="module-info" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="FxmlFile" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2OIXM1o3M9NAJhEVy8FQH2jGmsD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-19&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/apache-activemq-5.18.1/bin/activemq.jar&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.26788685&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;24063c2be5bf97c660830220009e3599&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;postgresql&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\talpo\Desktop\MPP\Laboratoare\Competition\CompetitionClientFX\src\main\resources\com.client.ams" />
+      <recent name="C:\Users\talpo\Desktop\MPP\Laboratoare\Competition\RestServices\src\main\resources" />
+      <recent name="C:\Users\talpo\Desktop\MPP\Laboratoare\Competition\CompetitionClientFX\src\main" />
+      <recent name="C:\Users\talpo\Desktop\MPP\Laboratoare\Competition\CompetitionClientFX\src\main\java" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\talpo\Desktop\MPP\Laboratoare\Competition\CompetitionClientFX\src\main\resources\com\client" />
+      <recent name="C:\Users\talpo\Desktop\MPP\Laboratoare\Competition\RestServices\src\main\java" />
+      <recent name="C:\Users\talpo\Desktop\MPP\Laboratoare\Competition\CompetitionModel\src\main\resources" />
+      <recent name="C:\Users\talpo\Desktop\MPP\Laboratoare\Competition\CompetitionPersistence\src\main\resources" />
+      <recent name="C:\Users\talpo\Desktop\MPP\Laboratoare\Competition\CompetitionServer\src\main\resources" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="com.client" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Gradle.Competition:RestServices [bootRun]">
+    <configuration name="Competition [dependencies]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="dependencies" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <ForceTestExec>false</ForceTestExec>
+      <method v="2" />
+    </configuration>
+    <configuration name="Competition:CompetitionClientFX [run]" type="GradleRunConfiguration" factoryName="Gradle" singleton="false" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/CompetitionClientFX" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="run" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <ForceTestExec>false</ForceTestExec>
+      <method v="2" />
+    </configuration>
+    <configuration name="Competition:CompetitionServer [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/CompetitionServer" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <ForceTestExec>false</ForceTestExec>
+      <method v="2" />
+    </configuration>
+    <configuration name="Competition:RestServices [bootRun]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/RestServices" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="bootRun" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <ForceTestExec>false</ForceTestExec>
+      <method v="2" />
+    </configuration>
+    <configuration name="Competition:RestServices [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/RestServices" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <ForceTestExec>false</ForceTestExec>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Java.test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Java.test" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StartRestServices (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="Competition.RestServices.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="rest.StartRestServices" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StartRestServices" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="Competition.RestServices.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="start.StartRestServices" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Gradle.Competition:RestServices [bootRun]" />
+      <item itemvalue="Gradle.Competition [dependencies]" />
+      <item itemvalue="Gradle.Competition:RestServices [build]" />
+      <item itemvalue="Gradle.Competition:CompetitionClientFX [run]" />
+      <item itemvalue="Gradle.Competition:CompetitionServer [build]" />
+      <item itemvalue="Spring Boot.StartRestServices (1)" />
+      <item itemvalue="Spring Boot.StartRestServices" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.Competition:RestServices [bootRun]" />
+        <item itemvalue="Gradle.Competition:RestServices [build]" />
+        <item itemvalue="Gradle.Competition:CompetitionClientFX [run]" />
+        <item itemvalue="Gradle.Competition [dependencies]" />
+        <item itemvalue="Gradle.Competition:CompetitionServer [build]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1101a018-3235-4db7-858d-c29180e2c349" name="Changes" comment="" />
+      <created>1681249019064</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681249019064</updated>
+      <workItem from="1681249020237" duration="405000" />
+      <workItem from="1681249442619" duration="131000" />
+      <workItem from="1681249587888" duration="190000" />
+      <workItem from="1681251560818" duration="1982000" />
+      <workItem from="1681286564552" duration="5426000" />
+      <workItem from="1681309345563" duration="3628000" />
+      <workItem from="1681313092829" duration="33000" />
+      <workItem from="1681313138031" duration="28000" />
+      <workItem from="1681313180763" duration="5272000" />
+      <workItem from="1681501659735" duration="330000" />
+      <workItem from="1681716142069" duration="5878000" />
+      <workItem from="1681803761937" duration="10935000" />
+      <workItem from="1681841317334" duration="2059000" />
+      <workItem from="1681922040563" duration="13931000" />
+      <workItem from="1682143613261" duration="6624000" />
+      <workItem from="1682430138866" duration="1223000" />
+      <workItem from="1682453915243" duration="4213000" />
+      <workItem from="1682488474770" duration="567000" />
+      <workItem from="1682492602968" duration="6124000" />
+      <workItem from="1682502685116" duration="5967000" />
+      <workItem from="1682511866782" duration="3612000" />
+      <workItem from="1682521106752" duration="3073000" />
+      <workItem from="1682557493472" duration="1255000" />
+      <workItem from="1682595799003" duration="1190000" />
+      <workItem from="1682678089467" duration="4114000" />
+      <workItem from="1682805332228" duration="617000" />
+      <workItem from="1683106578464" duration="609000" />
+      <workItem from="1683359770956" duration="625000" />
+      <workItem from="1683437544581" duration="7473000" />
+      <workItem from="1683581840827" duration="1225000" />
+      <workItem from="1683617011115" duration="770000" />
+      <workItem from="1683625677502" duration="8495000" />
+      <workItem from="1683654372527" duration="11268000" />
+      <workItem from="1683704355482" duration="49000" />
+      <workItem from="1683704605371" duration="427000" />
+      <workItem from="1683706682373" duration="1112000" />
+      <workItem from="1683715413755" duration="3288000" />
+      <workItem from="1683723716175" duration="9227000" />
+      <workItem from="1683780020282" duration="1815000" />
+      <workItem from="1683796918431" duration="2181000" />
+      <workItem from="1684094258905" duration="846000" />
+      <workItem from="1684333561146" duration="1453000" />
+      <workItem from="1684335651533" duration="6820000" />
+      <workItem from="1684741256466" duration="1998000" />
+      <workItem from="1684747118742" duration="5685000" />
+      <workItem from="1684778949876" duration="4819000" />
+      <workItem from="1684840156305" duration="3635000" />
+      <workItem from="1684853443630" duration="1540000" />
+      <workItem from="1684867738919" duration="2063000" />
+      <workItem from="1684903100029" duration="3596000" />
+      <workItem from="1684911476119" duration="3530000" />
+      <workItem from="1684916660494" duration="45000" />
+      <workItem from="1684917671204" duration="94000" />
+      <workItem from="1684953744348" duration="1337000" />
+      <workItem from="1684955489874" duration="1086000" />
+      <workItem from="1685003653192" duration="2933000" />
+      <workItem from="1685033535108" duration="3786000" />
+      <workItem from="1685043535977" duration="3659000" />
+      <workItem from="1685078164472" duration="4353000" />
+      <workItem from="1685110204929" duration="1961000" />
+      <workItem from="1685118114303" duration="3334000" />
+      <workItem from="1685268329403" duration="1548000" />
+      <workItem from="1685310116863" duration="333000" />
+      <workItem from="1685336577191" duration="1237000" />
+      <workItem from="1685523072690" duration="9000" />
+      <workItem from="1685526975444" duration="4930000" />
+      <workItem from="1685545224527" duration="1440000" />
+      <workItem from="1685547145810" duration="273000" />
+      <workItem from="1685547449707" duration="1706000" />
+      <workItem from="1685732900291" duration="1549000" />
+      <workItem from="1685742523513" duration="3313000" />
+      <workItem from="1685816405355" duration="4238000" />
+      <workItem from="1685900440042" duration="7042000" />
+      <workItem from="1685942554805" duration="6133000" />
+      <workItem from="1685952172942" duration="3328000" />
+      <workItem from="1686065784310" duration="11799000" />
+      <workItem from="1686112705881" duration="13390000" />
+      <workItem from="1686140851278" duration="1957000" />
+      <workItem from="1686150859859" duration="786000" />
+      <workItem from="1686967932179" duration="599000" />
+      <workItem from="1687116551195" duration="9095000" />
+      <workItem from="1687205524797" duration="1440000" />
+      <workItem from="1687229401900" duration="523000" />
+      <workItem from="1687238537804" duration="6719000" />
+      <workItem from="1687250473457" duration="265000" />
+      <workItem from="1687709596402" duration="611000" />
+      <workItem from="1688058063443" duration="1219000" />
+      <workItem from="1688379265119" duration="635000" />
+      <workItem from="1688723558569" duration="648000" />
+      <workItem from="1688981903475" duration="815000" />
+      <workItem from="1688984949430" duration="132000" />
+      <workItem from="1689001839472" duration="2225000" />
+      <workItem from="1689045473935" duration="541000" />
+      <workItem from="1689052843219" duration="5339000" />
+      <workItem from="1689345100039" duration="55000" />
+      <workItem from="1689345867452" duration="195000" />
+      <workItem from="1689346076966" duration="414000" />
+    </task>
+    <task id="LOCAL-00001" summary="Client-Server beginning">
+      <created>1681311559361</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681311559361</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Client-Server beginning without the missing files">
+      <created>1681311755194</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1681311755194</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Client-Server with less errors but not finished">
+      <created>1681314089409</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1681314089409</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Client-Server with even less errors but not finished">
+      <created>1681318315716</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1681318315716</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Client-Server mostly done">
+      <created>1682151403519</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1682151403519</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Client-Server done">
+      <created>1682165550211</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1682165550211</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Client-Server with the connection closing on pressing 'X'">
+      <created>1682458370466</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1682458370466</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Client-Server fully done">
+      <created>1682505872723</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1682505872723</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Client-Server fully done...again">
+      <created>1682522374677</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1682522374677</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Cross language communication">
+      <created>1683671378435</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1683671378435</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Hibernate beginning">
+      <created>1683780653921</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1683780653921</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Hibernate done, beginning REST">
+      <created>1684341489710</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1684341489710</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Web App">
+      <created>1685547855697</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1685547855697</updated>
+    </task>
+    <task id="LOCAL-00014" summary="ActiveMQ">
+      <created>1686151631152</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1686151631153</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Client-Server beginning" />
+    <MESSAGE value="Client-Server beginning without the missing files" />
+    <MESSAGE value="Client-Server with less errors but not finished" />
+    <MESSAGE value="Client-Server with even less errors but not finished" />
+    <MESSAGE value="Client-Server mostly done" />
+    <MESSAGE value="Client-Server done" />
+    <MESSAGE value="Client-Server with the connection closing on pressing 'X'" />
+    <MESSAGE value="Client-Server fully done" />
+    <MESSAGE value="Client-Server fully done...again" />
+    <MESSAGE value="Cross language communication" />
+    <MESSAGE value="Hibernate beginning" />
+    <MESSAGE value="Hibernate done, beginning REST" />
+    <MESSAGE value="Web App" />
+    <MESSAGE value="ActiveMQ" />
+    <option name="LAST_COMMIT_MESSAGE" value="ActiveMQ" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CompetitionNetworking/src/main/java/com/network/rpcprotocol/CompetitionClientRpcReflectionWorker.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CompetitionPersistence/src/main/java/com/persistence/CommonUtils.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CompetitionClientFX/src/main/java/com/client/gui/ams/LoginWindowAMS.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CompetitionClientFX/src/main/java/com/client/StartRpcClient.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

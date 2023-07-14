@@ -1,0 +1,31 @@
+plugins {
+    id 'java'
+}
+
+group = 'Competition'
+version = '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testImplementation platform('org.junit:junit-bom:5.9.1')
+    testImplementation 'org.junit.jupiter:junit-jupiter'
+
+    implementation project (":CompetitionModel")
+    implementation project (":CompetitionServices")
+    implementation project (":CompetitionPersistence")
+    implementation project (":CompetitionNetworking")
+    implementation "org.springframework:spring-context:5.3.20"
+    implementation "org.springframework:spring-jms:5.3.20"
+    implementation "org.apache.activemq:activemq-spring:5.18.1"
+}
+
+application {
+    mainClass = 'StartRpcServer'
+}
+
+test {
+    useJUnitPlatform()
+}
