@@ -2,7 +2,7 @@
 
 C# version: https://github.com/DariusTalpos/MPP-Final-Lab---Triathlon-Management-C-Sharp
 
-EN: This application is the final version of the homework received at the "Projecting and Programming Methods" course at Babeș-Bolyai University.
+EN: This application is the final version of the homework received at the "Systems for Design and Implementation" course at Babeș-Bolyai University.
 It is a client-server application that stores data using a PostgreSQL database, and has multiple functionalities:
 1. Log In - by starting the client side of the application, and having the server running beforehand, the app user can log in into the application by using a valid username and the associated password in the log in window.
 2. Viewing participants, rounds, results - the main menu of the application presents the user a list of participants (names and points) and a list of rounds (names). By choosing a round, the user can view the paricipants of that round and the amount of points they obtained.
